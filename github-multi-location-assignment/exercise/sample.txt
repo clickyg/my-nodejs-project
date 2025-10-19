@@ -1,0 +1,2 @@
+Sample file for pull/revert/reset practice.
+Edit this line, commit, and try revert/reset.
