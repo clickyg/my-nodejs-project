@@ -1,0 +1,16 @@
+{
+  "name": "my-nodejs-project",
+  "version": "1.0.0",
+  "description": "Minimal Node.js starter for Git/GitHub assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "starter"
+  ],
+  "author": "",
+  "license": "MIT"
+}
